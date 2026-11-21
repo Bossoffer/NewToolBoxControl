@@ -1,0 +1,5 @@
+flet==0.18.0
+pynput
+pyautogui
+psutil
+PyGetWindow
